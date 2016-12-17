@@ -14,7 +14,7 @@
  */
 namespace Cake\Test\TestCase\Network;
 
-include_once CORE_TEST_CASES . DS . 'Http' . DS . 'mocks.php';
+include_once CORE_TEST_CASES . DS . 'Http' . DS . 'server_mocks.php';
 
 use Cake\Network\Exception\NotFoundException;
 use Cake\Network\Request;
