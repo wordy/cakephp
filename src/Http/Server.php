@@ -15,7 +15,6 @@
 namespace Cake\Http;
 
 use Cake\Event\EventDispatcherTrait;
-use Cake\Network\Response;
 use Psr\Http\Message\ResponseInterface;
 use Psr\Http\Message\ServerRequestInterface;
 use RuntimeException;

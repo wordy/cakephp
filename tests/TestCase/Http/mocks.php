@@ -13,7 +13,7 @@
  * @license       http://www.opensource.org/licenses/mit-license.php MIT License
  */
 
-namespace Cake\Network {
+namespace Cake\Http {
 
     /**
      * Mocks the headers_sent() function when invoked from the Cake\Network
